@@ -1,4 +1,4 @@
 # html-css
 Curso de HTML e CSS3 do Cursoemvideo
 
-Olá, estou aprendendo a criar sites, agora estou apredndo a criar meus próprios repositórios.
+Olá, agora que aprendi a criar sites, vou aprender a gerenciar meus próprios repositórios.
